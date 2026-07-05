@@ -37,7 +37,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-50">
       {/* 1. Header Section */}
       <header className="bg-white shadow-sm">
-        <div className="hidden lg:block border-b py-3">
+        <div className="block border-b py-3">
           <div className="container mx-auto px-4 flex items-center justify-between">
             <div className="flex items-center w-1/4">
               {/* Logo Link වෙනස් කළා */}
